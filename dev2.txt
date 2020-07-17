@@ -2,5 +2,9 @@
 line so 3
 line so 4 moi them
 line so 4 dev 2
+<<<<<<< HEAD
 
 
+=======
+line 2 day ne
+>>>>>>> refs/heads/dev2
